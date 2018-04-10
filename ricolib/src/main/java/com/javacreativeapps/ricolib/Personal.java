@@ -5,6 +5,7 @@ package com.javacreativeapps.ricolib;
  */
 
 public class Personal {
+    //new comment
     String name;
     String role;
     String skill;
